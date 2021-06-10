@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NewsCafe/static/css/main.7c42ea2d.chunk.css",
-    "main.js": "/NewsCafe/static/js/main.97c2567c.chunk.js",
-    "main.js.map": "/NewsCafe/static/js/main.97c2567c.chunk.js.map",
-    "runtime-main.js": "/NewsCafe/static/js/runtime-main.321e3ae5.js",
-    "runtime-main.js.map": "/NewsCafe/static/js/runtime-main.321e3ae5.js.map",
-    "static/js/2.dea4525a.chunk.js": "/NewsCafe/static/js/2.dea4525a.chunk.js",
-    "static/js/2.dea4525a.chunk.js.map": "/NewsCafe/static/js/2.dea4525a.chunk.js.map",
-    "index.html": "/NewsCafe/index.html",
-    "static/css/main.7c42ea2d.chunk.css.map": "/NewsCafe/static/css/main.7c42ea2d.chunk.css.map",
-    "static/js/2.dea4525a.chunk.js.LICENSE.txt": "/NewsCafe/static/js/2.dea4525a.chunk.js.LICENSE.txt"
+    "main.css": "/PhotoCafe/static/css/main.7c42ea2d.chunk.css",
+    "main.js": "/PhotoCafe/static/js/main.97c2567c.chunk.js",
+    "main.js.map": "/PhotoCafe/static/js/main.97c2567c.chunk.js.map",
+    "runtime-main.js": "/PhotoCafe/static/js/runtime-main.a25dd9e6.js",
+    "runtime-main.js.map": "/PhotoCafe/static/js/runtime-main.a25dd9e6.js.map",
+    "static/js/2.dea4525a.chunk.js": "/PhotoCafe/static/js/2.dea4525a.chunk.js",
+    "static/js/2.dea4525a.chunk.js.map": "/PhotoCafe/static/js/2.dea4525a.chunk.js.map",
+    "index.html": "/PhotoCafe/index.html",
+    "static/css/main.7c42ea2d.chunk.css.map": "/PhotoCafe/static/css/main.7c42ea2d.chunk.css.map",
+    "static/js/2.dea4525a.chunk.js.LICENSE.txt": "/PhotoCafe/static/js/2.dea4525a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.321e3ae5.js",
+    "static/js/runtime-main.a25dd9e6.js",
     "static/js/2.dea4525a.chunk.js",
     "static/css/main.7c42ea2d.chunk.css",
     "static/js/main.97c2567c.chunk.js"
